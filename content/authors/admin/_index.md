@@ -6,7 +6,7 @@ title: Example Change
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Sociology of Science
 
 # Organizations/Affiliations
 organizations:
